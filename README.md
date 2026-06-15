@@ -1,6 +1,6 @@
 ### Oh, Hi person!
 
-- 🏤 Senior Director of Engineering at [LiquidWeb](https://liquidweb.com) by [Nexcess](https://nexcess.com) by 
+- 🏤 Senior Director of Engineering at [LiquidWeb](https://liquidweb.com) by [Nexcess](https://nexcess.com)
   - [Nexcess](https://github.com/stellarwp) 
   - [The Events Calendar](https://github.com/the-events-calendar) 
   - LearnDash
